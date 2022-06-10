@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeUJiaUDTlw3/xtt0TIJcuSiQ3bg1w2lrul0lC6W0zWyglIAopA1+XhwjnzScHv/+pE+z8vxmTToxT+G1X14ug==",
+  "success": true,
+  "projectFilePath": "/home/prmiguel/workspace/BlazorServerHelloWorld/BlazorServerHelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/prmiguel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.5/microsoft.aspnetcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
